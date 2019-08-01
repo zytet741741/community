@@ -1,14 +1,13 @@
 ## 社区
 
 ## 资料
-https://spring.io/guides
-https://spring.io/guides/serving-web-content
-https://elasticserch.cn/explore
-https://developer.github.com/v3/guides/managing-deploy-keys/#deploy-keys
+[Spring 文档](https://spring.io/guides)
+[Spring Web](https://spring.io/guides/serving-web-content)                                             
+[es](https://elasticserch.cn/explore)
+[Github deploy key](https://developer.github.com/v3/guides/managing-deploy-keys/#deploy-keys)                                                                                                                     
+[Bootstrap](https://v3.bootcss.com/getting-started/)
+[Github OAuth](https://developer.github.com/)
 
 ## 工具
-<<<<<<< HEAD
-https://git-scm.com/download
-=======
-https://git-scm.com/download
->>>>>>> 32e4414c05b130c58e32c808549b0422ff2a1b57
+[Git](https://git-scm.com/download)
+[VP](https://www.visual-paradigm.com)
